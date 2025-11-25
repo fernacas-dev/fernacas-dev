@@ -1,20 +1,57 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Hi, I'm Fernando
 
-# Run and deploy your AI Studio app
+Software Developer specialized in **ASP.NET Core** and **React**, building scalable, clean and maintainable applications for real production environments. I work as a freelancer in Brazil (CNPJ), collaborating with companies and teams to design, develop and maintain modern web solutions.
 
-This contains everything you need to run your app locally.
+## 🧠 About Me
+- Full-stack development with .NET + React  
+- Experience creating enterprise features end-to-end  
+- Strong focus on clean architecture, performance, debugging and maintainability  
+- Used to working with real systems, onboarding new developers, improving legacy code and delivering value continuously
 
-View your app in AI Studio: https://ai.studio/apps/drive/1jKZHC3--RDj6SBJF9RZEGEkvzWP8gy1X
+## 🛠️ Main Tech Stack
+**Backend**  
+- ASP.NET Core  
+- Node.js  
+- Python  
+- Entity Framework  
+- SQL Server  
+- REST APIs  
+- Clean Architecture / DDD principles  
 
-## Run Locally
+**Frontend**  
+- React  
+- TypeScript  
+- JavaScript  
+- HTML / CSS  
 
-**Prerequisites:**  Node.js
+**Tools & Ecosystem**  
+- Git & GitHub  
+- Linux  
+- Azure  
+- AWS  
+- DevOps workflows  
+- Docker (when needed)
 
+## 📌 What I Usually Work On
+- Development of new system features  
+- Refactoring and modernization of existing applications  
+- Performance improvements and SQL tuning  
+- Analysis of issues in production environments  
+- Technical onboarding for new developers  
+- Deep debugging of application flows, databases and integrations
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📂 Some Things You’ll Find Here
+- Personal projects  
+- Experimentation with new technologies  
+- Utilities, code samples and prototypes  
+- Documented learnings from day-to-day experience
+
+## 📫 Contact
+If you want to discuss a project or just talk about development:
+
+**Email:**  
+contact@fernacas.dev
+
+---
+
+Thanks for visiting.
