@@ -1,0 +1,5 @@
+{
+  "name": "GitProfile Gen",
+  "description": "A professional GitHub Profile README generator tailored for developers, featuring AI-powered bio enhancement using the Gemini API.",
+  "requestFramePermissions": []
+}
