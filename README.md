@@ -50,7 +50,7 @@ Software Developer specialized in **ASP.NET Core** and **React**, building scala
 If you want to discuss a project or just talk about development:
 
 **Email:**  
-contact@fernacas.dev
+contact@ideaforgepr.com.br
 
 ---
 
